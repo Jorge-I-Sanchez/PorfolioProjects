@@ -1,3 +1,4 @@
+--Data Exploration
 -- Grab data from ourworldindata.org/covid-deaths
 --Create two tables CovidDeaths and CovidVaccinations
 --Import excel tables
